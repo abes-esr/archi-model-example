@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "OK" > /use/share/nginx/html-tmp/create-htmlreport.prescript.sh.html
+echo "OK" > /usr/share/nginx/html-tmp/create-htmlreport.prescript.sh.html
